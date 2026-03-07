@@ -5,5 +5,9 @@ h1 {
 }
 
 body {
-    background-color: rgb(235, 230, 225);
+    background-color: rgb(245, 245, 240);
+}
+img {
+    width: 200px;
+    margin-left: 125px;
 }
