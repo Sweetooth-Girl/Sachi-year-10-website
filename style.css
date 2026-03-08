@@ -8,16 +8,13 @@ body {
     background-color: rgb(245, 245, 240);
 }
 img {
-    width: 500px;
-    margin-left: 600px;
-    margin-right: 400px;
+    width: 400px;
+    margin-left: 500px;
     margin-bottom: 10px;
     
 }
 .title{
-    width: 600px;
-    height: 300px;
-    margin-left:600px;
-    margin-right:400px;
+    width: 500px;
+    margin-left:500px;
     margin-top: 10px;
 }
