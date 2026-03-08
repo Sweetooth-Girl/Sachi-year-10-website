@@ -9,7 +9,7 @@ body {
 }
 img {
     width: 500px;
-    margin-left: 400px;
+    margin-left: 600px;
     margin-right: 400px;
     margin-bottom: 10px;
     
@@ -17,6 +17,7 @@ img {
 .title{
     width: 600px;
     height: 300px;
-    margin-left:400px;
+    margin-left:600px;
     margin-right:400px;
+    margin-top: 10px;
 }
