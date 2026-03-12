@@ -13,8 +13,14 @@ img {
     margin-bottom: 10px;
     
 }
-.title{
+.title {
     width: 625px;
     margin-left: 300px;
     margin-top: 10px;
+}
+
+.intro {
+    text-align: center;
+    font-family: monospace;
+    font-size: larger;
 }
