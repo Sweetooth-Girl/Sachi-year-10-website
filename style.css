@@ -28,7 +28,6 @@ img {
 
 .small-img {
     width: 250px;
-    float: left;
     margin-right: 20px;
     margin-bottom: 20px;
 }
@@ -38,4 +37,8 @@ div {
     justify-content: center;
     flex-direction: column;
     flex-wrap: wrap;
+}
+
+.d-intro {
+    justify-content: space-evenly;
 }
