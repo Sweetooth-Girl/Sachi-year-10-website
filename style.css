@@ -29,9 +29,11 @@ img {
 .small-img {
     width: 250px;
     margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
 }
 
-div {
+.d-title {
     display:flex;
     justify-content: center;
     flex-direction: column;
@@ -39,10 +41,14 @@ div {
 }
 
 .d-intro {
-    justify-content: space-evenly;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: column wrap;
 }
 
 .d-aduo {
-    justify-content: space-between;
+    width: 400px;
+    display: flex;
+    justify-content: center;
     flex-direction: row;
 }
