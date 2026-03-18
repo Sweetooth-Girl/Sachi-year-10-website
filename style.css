@@ -32,3 +32,10 @@ img {
     margin-right: 20px;
     margin-bottom: 20px;
 }
+
+div {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
