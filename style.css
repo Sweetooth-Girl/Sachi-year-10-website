@@ -41,3 +41,8 @@ div {
 .d-intro {
     justify-content: space-evenly;
 }
+
+.d-aduo {
+    justify-content: space-between;
+    flex-direction: row;
+}
