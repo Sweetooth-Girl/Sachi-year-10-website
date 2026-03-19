@@ -47,8 +47,18 @@ img {
 }
 
 .d-aduo {
-    width: 400px;
+    width: 300px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
+
+#t-aduo{
+    background-image:linear-gradient(to right, blue 25%, red 50%, yellow 75%);
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: flex;
     flex-direction: row;
 }
