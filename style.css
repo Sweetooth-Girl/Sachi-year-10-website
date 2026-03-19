@@ -6,6 +6,8 @@ h1 {
 
 body {
     background-color: rgb(245, 245, 240);
+    font-family: monospace;
+    text-align: center;
 }
 img {
     width: 400px;
@@ -55,10 +57,13 @@ img {
 }
 
 #t-aduo{
+    text-align: center;
     background-image:linear-gradient(to right, blue 25%, red 50%, yellow 75%);
     background-size: cover;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    display: flex;
-    flex-direction: row;
+}
+
+p {
+    font-size: 20px;
 }
