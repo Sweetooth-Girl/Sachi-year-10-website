@@ -75,3 +75,8 @@ p {
     justify-content: center;
     
 }
+
+.quotes {
+    font-style: italic;
+    color: rgb(74, 74, 74);
+}
