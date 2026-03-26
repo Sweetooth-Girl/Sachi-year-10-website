@@ -57,7 +57,6 @@ img {
     border-style: dashed;
     display: flex;
     justify-content: center;
-    flex-direction: column;
     flex-wrap: wrap;
 }
 
@@ -67,7 +66,6 @@ img {
     color:rgb(33, 23, 89);
     display: flex;
     justify-content: center;
-    flex-direction: column;
     flex-wrap: wrap;
 }
 
@@ -97,7 +95,7 @@ p {
 }
 
 .sg-pic {
-    width: 450px;
+    width: 350px;
     display: flex;
     justify-content: center;
     
