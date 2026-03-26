@@ -58,7 +58,14 @@ img {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    
+}
+
+.d-god {
+    border: 6px solid rgb(243, 224, 116);
+    border-style: dotted;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
 }
 
 #t-aduo{
@@ -67,6 +74,13 @@ img {
     background-size: cover;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+#t-god{
+    width: 200px;
+    font-family: 'Franklin Gothic Thinner', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: rgb(232, 209, 80);
 }
 
 p {
