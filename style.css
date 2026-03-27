@@ -68,6 +68,7 @@ img {
     color:rgb(33, 23, 89);
     display: flex;
     justify-content: center;
+    flex-direction: column;
     flex-wrap: wrap;
 }
 
