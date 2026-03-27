@@ -68,12 +68,12 @@ img {
     color:rgb(33, 23, 89);
     display: flex;
     justify-content: center;
-    flex-direction: column;
     flex-wrap: wrap;
 }
 
 .first-row {
     display: flex;
+    justify-content: space-evenly;
     flex-direction: row;
     flex-wrap: wrap;
 }
@@ -87,14 +87,19 @@ img {
 }
 
 #t-god{
-    width: 600px;
+    width: 400px;
     font-family: 'Franklin Gothic Thinner', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
     color: rgb(232, 209, 80);
     margin-left: 10px;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 
+}
+
+#godsg {
+    width: 425px;
 }
 
 p {
