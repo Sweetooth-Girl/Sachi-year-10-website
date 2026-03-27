@@ -71,6 +71,12 @@ img {
     flex-wrap: wrap;
 }
 
+.first-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
 #t-aduo{
     text-align: center;
     background-image:linear-gradient(to right, blue 25%, red 50%, yellow 75%);
