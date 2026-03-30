@@ -9,6 +9,10 @@ h2 {
     font-size: xx-large;
 }
 
+h3 {
+    font-size: 22px;
+}
+
 body {
     background-color: rgb(245, 245, 240);
     font-family: monospace;
@@ -114,13 +118,38 @@ a {
 }
 
 #godsg {
-    width: 350px;
+    max-width: 350px;
+    max-height: 500px;
 }
 
+#smalgod {
+    width: 200px;
+}
+
+#red {
+    color: rgb(237, 25, 25);
+}
+#blue {
+    color: rgb(23, 23, 224);
+}
+#yellow {
+    color: rgb(236, 217, 8)
+}
 p {
     font-size: 20px;
     line-height: 30px;
     letter-spacing: 0.8px;
+}
+
+ul {
+    width: 320px;
+    height: 80px;
+    text-align: start;
+    font-size: 20px;
+}
+li {
+    width: 320px;
+    height: 30px;
 }
 
 .sg-pic {
