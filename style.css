@@ -124,6 +124,11 @@ a {
     max-height: 250px;
 }
 
+#intro-img{
+   margin-left: 150px;
+   margin-right: 150px;
+}
+
 #red {
     color: rgb(235, 25, 25);
 }
