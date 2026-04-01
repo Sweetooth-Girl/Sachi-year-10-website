@@ -20,7 +20,6 @@ body {
 }
 img {
     width: 400px;
-   
     margin-bottom: 10px;
 }
 
@@ -47,6 +46,11 @@ a {
     margin-bottom: 20px;
     display: flex;
     justify-content: center;
+}
+
+.li-Prim {
+    width: 320px;
+    height: 30px;
 }
 
 .d-title {
@@ -175,9 +179,10 @@ ul {
     text-align: start;
     font-size: 20px;
 }
+
 li {
-    width: 320px;
-    height: 30px;
+    text-align: start;
+    font-size: 14px;
 }
 
 .sg-pic {
