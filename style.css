@@ -89,6 +89,14 @@ a {
     flex-wrap: wrap;
 }
 
+.d-abSG {
+    width: 350px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 .first-row {
     margin: 5px;
     display: flex;
@@ -151,7 +159,9 @@ a {
     float: left;
     margin: 10px;
 }
-
+#h-abSG {
+    font-size: 40px;
+}
 p {
     font-size: 15px;
     line-height: 30px;
