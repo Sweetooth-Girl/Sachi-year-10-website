@@ -90,6 +90,7 @@ a {
 }
 
 .d-abSG {
+    margin: 5px;
     width: 350px;
     height: 400px;
     display: flex;
@@ -106,6 +107,7 @@ a {
 
 .t-abSG {
     text-align: start;
+    font-size: 25px;
     
 }
 
@@ -152,7 +154,7 @@ a {
 }
 
 #abSG {
-    width: 150px;
+    width: 250px;
     border: 4px solid;
     border-radius: 20px;
     display: flex;
@@ -189,4 +191,3 @@ li {
     font-style: italic;
     color: rgb(74, 74, 74);
 }
-
