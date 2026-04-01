@@ -167,6 +167,13 @@ a {
 #h-abSG {
     font-size: 40px;
 }
+
+#note {
+    font-size: x-small;
+    color: gray;
+    line-height: 10px;
+}
+
 p {
     font-size: 15px;
     line-height: 30px;
